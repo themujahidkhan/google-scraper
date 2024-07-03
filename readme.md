@@ -1,7 +1,7 @@
 # Google Scraper
 
 
-Built using NodeJS + Puppeteer.
+Built using NodeJS + Playwright.
 
 ## Usage
 
